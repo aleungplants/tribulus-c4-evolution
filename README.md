@@ -1,4 +1,6 @@
-# Data for Leung et al. unpublished manuscript
+# Data for Leung et al. accepted at Plant Cell & Environment
+
+The below data are now added combined to a single data.xlsx file and are also uploaded to the supplemental data of the paper.
 
 NA in any data file indicates that the value was not determined. 
 
