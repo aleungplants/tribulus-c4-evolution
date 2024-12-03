@@ -1,4 +1,6 @@
-# Data for Leung et al. accepted at Plant Cell & Environment
+# Data for Leung et al. (2024) Plant Cell & Environment
+
+The paper is open-access at [https://doi.org/10.1111/pce.15069](https://doi.org/10.1111/pce.15069).
 
 The below data are now added combined to a single data.xlsx file and are also uploaded to the supplemental data of the paper.
 
